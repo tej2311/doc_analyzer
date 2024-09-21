@@ -9,6 +9,7 @@ streamlit==1.38.0
 sympy==1.13.3
 tokenizers==0.19.1
 toml==0.10.2
+matplotlib==3.9.2
 torch==2.4.1
 tornado==6.4.1
 tqdm==4.66.5
