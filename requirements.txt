@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+docx
+pandas as pd
+matplotlib
+transformers
+time
+nltk
